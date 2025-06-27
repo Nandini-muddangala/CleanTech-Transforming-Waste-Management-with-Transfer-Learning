@@ -1,6 +1,6 @@
 #project executable files 
 
-Project files consistes of app.py (backend ) and index.html (frontend) :
+Project files consists of app.py (backend ) and index.html (frontend) :
 
 🧠 app.py – Backend Logic (Flask App)
 
